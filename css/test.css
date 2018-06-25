@@ -1,0 +1,23 @@
+body{
+	background-color: grey;
+}
+h1{
+					color: orange;
+					font-size: 75px;
+					text-decoration: underline;
+					font: small-caps;
+				}
+				#first{
+					font-size: 150px;
+				}
+				h2{
+					color: lightblue;
+					font-size: 30px;
+				}
+				.small{
+					font-size: 12px;
+				}
+				span{
+					font-size: 20px;
+									
+				}
